@@ -1,0 +1,39 @@
+/*EXCEPT NAVBAR ALL OTHER COMPONENTS ARE STYLED HERE*/
+/*NAVBAR styling in html inline*/
+#namerspace {
+  background-color: #2b2e4a;
+}
+#whathappenshere{
+  background-color: #2b2e4a;
+}
+
+/*headings*/
+.h1a{
+  color: #E84545;
+  text-align: center;
+  margin-top: 20%;
+  margin-left: 20%;
+  font-size: 4rem;
+  font-family: 'Monoton', cursive;
+}
+.h1b{
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+  color: #E84545;
+  font-size: 2rem;
+}
+/*images*/
+#RElogo {
+  width: 100%;
+  max-width: 370px;
+  height: auto;
+  margin-top: 7%;
+}
+/*paragraphs*/
+.intropara{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 2rem;
+  text-align: center;
+  margin-left: 30%;
+  color: #E84545;
+}
